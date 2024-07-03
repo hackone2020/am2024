@@ -1,0 +1,192 @@
+html {
+    _overflow-x:hidden;/*ie6*/
+}
+body {
+    margin:0;
+    padding:0;
+    margin-top: 5px;
+    margin-left: 10px;
+    color:#000000;
+    background-color:#ffffff;
+}
+body, div,p, font,span, td, tr, table, input,select, form, textarea, a {
+    list-style-type:none;
+    list-style:none;
+    font-size:12px;
+    z-index:inherit;
+    font-family:Verdana, "瀹嬩綋", Arial,Sans;
+}
+span,input,select{
+    vertical-align: middle;
+    _vertical-align:middle;/*ie6*/
+}
+.clearfloat {
+    clear:both;
+}
+.floatleft {
+    float:left;
+}
+.floatright {
+    float:right;
+}
+.hidden {
+    display:none;
+}
+img {
+    border:0;
+}
+a {
+    color:#2C5A7A;
+    text-decoration:none;
+}
+a:hover {
+    color:#F60;
+    text-decoration:none;
+}
+.font_d {
+    color:#000000;
+}
+.font_r {
+    color: red;
+}
+.font_b {
+    color: blue;
+}
+.font_g {
+    color: green;
+}
+.font_y {
+    color: #FFFF00;
+}
+.font_o {
+    color: #FF6600;
+}
+.font_p {
+    color: #5A09E4;
+}
+.font_bold {
+    font-weight: bold;
+}
+.font_left {
+    text-align: left;
+    text-indent: 3px;
+}
+.font_center {
+    text-align: center;
+    text-indent: 3px;
+}
+.font_right {
+    text-align: right;
+}
+.t_center {
+    margin:10px auto 0 auto;
+}
+.t_list {
+    margin-top: 0px;
+    background-color:#C9D5DE;
+    border:0px solid #FFFFFF;
+}
+.t_list td{
+
+}
+.t_list_caption {
+    background-image: url(/member/images/t_caption_bg.jpg);
+    height: 29px;
+    line-height: 29px;
+    text-align:center;
+    color: #333;
+}
+.t_son {
+    background-color:#C9D5DE;
+    border:0px solid #FFFFFF;
+}
+.t_edit_caption {
+    line-height: 28px;
+    background-color:#fff1e4;
+    padding-left:5px;
+    text-align: right;
+}
+.t_edit_td {
+    background-color:#ffffff;
+    padding-left:5px;
+    text-align: left;
+}
+.t_list_tr_0 {
+    background-color:#ffffff;
+}
+.t_list_tr_1 {
+    background-color:#EEEEEE;
+}
+.t_list_tr_2 {
+    background-color:#FFE3EC;
+}
+.t_list_tr_3 {
+    background-color:#fff1e4;
+}
+.bet {
+    text-align:center;
+    line-height: 18px;
+}
+.delete {
+    color: #666666;
+    text-decoration: line-through;
+}
+.inp1, .inp1m {
+    border:1px solid #ABB2C5;
+    height:20px;
+    line-height:20px;
+    padding-top:1px;
+    padding-left:1px!important;
+    padding-left:2px;
+    color:#000
+}
+.inp1 {
+    color:#000
+}
+.inp1m {
+    border:1px solid #6191fd;
+    color:#000;
+}
+.btn1, .btn1m, .btn2, .btn2m, .btn3, .btn3m, .btn4, .btn4m, .btn5, .btn5m{
+    height: 20px;
+    line-height:20px;
+    cursor: pointer;
+    border: 0px solid #FF9224;
+    background-color: #B3C5EF;
+    background-image: url(/member/images/btn.png);
+    margin-top: 2px;
+    margin-bottom: 2px;
+    text-align: center;
+    vertical-align: middle;
+    padding:0;
+}
+.btn1 {
+    width: 72px;
+    background-position: 0px 0px;
+    color: #FFFFFF;
+}
+.btn1m {
+    width: 72px;
+    background-position: 0px -20px;
+    color: #FFFFFF;
+}
+.btn2 {
+    width: 72px;
+    background-position: -72px 0px;
+    color: #FFFFFF;
+}
+.btn2m {
+    width: 72px;
+    background-position: -72px -20px;
+    color: #FFFFFF;
+}
+.btn3 {
+    width: 72px;
+    background-position: -144px 0px;
+    color: #FFFFFF;
+}
+.btn3m {
+    width: 72px;
+    background-position: -144px -20px;
+    color: #FFFFFF;
+}

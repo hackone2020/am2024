@@ -1,0 +1,8 @@
+td{font-family: "Arial";font-size: 12px;}
+.sline { font-size: 12px; font-family: "Arial"; padding-top: 3px; padding-right: 3px; padding-left: 7px }
+a:link {  color: #D8B20C; text-decoration: none}
+a:hover {  color: #FF0000}
+a:visited {  text-decoration: none}
+.coolBar {background-color: #ECE9D8;border-top-style: solid;border-bottom-style: ridge;border-top-color: #2F4540;border-bottom-color: #A0998F;border-top-width: 1px;border-bottom-width: 2px;}
+.coolButton {text-align: center;}
+.coolButton IMG	{filter: gray();}

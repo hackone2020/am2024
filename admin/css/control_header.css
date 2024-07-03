@@ -1,0 +1,7 @@
+.sline { font-size: 12px; font-family: "Arial"; padding-top: 3px; padding-right: 3px; padding-left: 7px }
+a:link {  color: #D8B20C; text-decoration: none}
+a:hover {  color: #FF0000}
+a:visited {  text-decoration: none}
+.coolBar    {background: buttonface;border-top: 0px solid buttonhighlight; border-left: 1px solid buttonhighlight; border-bottom: 1px solid buttonshadow; border-right: 0px solid buttonshadow; padding: 0px; font: menu;}
+.coolButton {border: 1px solid buttonface; padding: 1px; text-align: center; cursor: default;}
+.coolButton IMG	{filter: gray();}

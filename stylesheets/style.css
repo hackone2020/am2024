@@ -1,0 +1,140 @@
+body, div, p, span, td, tr, table, ul, li, input, form, textarea, a, h1, h2, h3, h4 {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: Verdana, "宋体", Arial, Sans;
+}
+
+input, select {
+  vertical-align: middle;
+}
+
+a:link {
+  text-decoration: none
+}
+
+a:visited {
+  text-decoration: none
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F60;
+}
+
+body {
+  font-size: 12px;
+  color: #333;
+  background-color: #ffffff;
+}
+
+.t_list {
+  background-color: #ccd6e2;
+  border: 0px solid #FFFFFF;
+}
+
+.t_list_caption {
+  background-image: url(/images/t_bg.png);
+  height: 26px;
+  line-height: 26px;
+  text-align: center;
+  color: #333;
+}
+
+.t_center {
+  margin: 10px auto 0 auto;
+}
+
+.inp1, .inp1m {
+  vertical-align: middle;
+  border: 1px solid #ABB2C5;
+  height: 20px;
+  line-height: 20px;
+  padding-top: 1px;
+  padding-left: 1px !important;
+  padding-left: 2px;
+  color: #000
+}
+
+.inp1m {
+  border: 1px solid #6191fd;
+  color: #000;
+}
+
+.btn1, .btn1m, .btn2, .btn2m, .btn3, .btn3m, .btn4, .btn4m, .btn5, .btn5m {
+  height: 20px;
+  line-height: 20px;
+  cursor: pointer;
+  border: 0px solid #FF9224;
+  background-color: #B3C5EF;
+  background-image: url(/images/btn.png);
+  margin-top: 2px;
+  margin-bottom: 2px;
+  text-align: center;
+  vertical-align: middle;
+  padding: 0;
+}
+
+.btn1 {
+  width: 67px;
+  background-position: 0px 0px;
+  color: #FFFFFF;
+}
+
+.btn1m {
+  width: 67px;
+  background-position: 0px -20px;
+  color: #FFFFFF;
+}
+
+.btn2 {
+  width: 67px;
+  background-position: -67px 0px;
+  color: #FFFFFF;
+}
+
+.btn2m {
+  width: 67px;
+  background-position: -67px -20px;
+  color: #FFFFFF;
+}
+
+.btn3 {
+  width: 54px;
+  background-position: -134px 0px;
+  color: #FFFFFF;
+}
+
+.btn3m {
+  width: 54px;
+  background-position: -134px -20px;
+  color: #FFFFFF;
+}
+
+.btn4 {
+  width: 46px;
+  background-position: -188px 0px;
+  color: #0A1F63;
+}
+
+.btn4m {
+  width: 46px;
+  background-position: -188px -20px;
+  color: #0A1F63;
+}
+
+.btn5 {
+  width: 67px;
+  background-position: -234px 0px;
+  color: #0A1F63;
+}
+
+.btn5m {
+  width: 67px;
+  background-position: -234px -20px;
+  color: #0A1F63;
+}

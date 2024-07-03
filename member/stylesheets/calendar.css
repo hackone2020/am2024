@@ -1,0 +1,81 @@
+.week {
+    height: 30px;
+    line-height: 20px;
+}
+
+.week li {
+    float: left;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    list-style: none;
+    font-size:14px;
+    font-weight:bold;
+}
+
+.today {
+    background: limegreen;
+    /* background: orangered; */
+    
+    color: #fff;
+}
+
+.todayLottery {
+    background: orangered;
+    /* background: limegreen; */
+    
+    color: #fff;
+}
+
+.lottery {
+    background: orange;
+    color: #fff;
+}
+
+.pastLottery {
+    background: lightgrey;
+    color: #fff;
+}
+
+.sun {
+    color: #f00;
+}
+
+.ccc {
+    color: #ccc;
+}
+
+h4 {
+    margin-top: 10px;
+    text-align: center;
+}
+
+li {
+    float: left;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    list-style: none;
+    margin: 2px;
+}
+
+#calendar {
+    width: 320px;
+    overflow: hidden;
+    position: relative
+}
+
+#calendar2 {
+    width: 320px;
+    overflow: hidden;
+    position: relative
+}
+
+.dateList .dateList2{
+    overflow: hidden;
+    clear: both
+}
+
+
